@@ -1,6 +1,6 @@
 # cra-template-nodejs-react-app
 
-This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
+This is the official TypeScript template for [Create React App](https://github.com/nodejstemplates/cra-template-nodejs-react-app).
 
 To use this template, add `--template typescript` when creating a new app.
 
